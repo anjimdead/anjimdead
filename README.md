@@ -1,3 +1,6 @@
+![Profile Views](https://komarev.com/ghpvc/?username=anjimdead)
+
+
 ## 🕵| Security Researcher & Reverse Engineer
 
 
